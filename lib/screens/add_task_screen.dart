@@ -44,7 +44,7 @@ class _AddTaskScreenState extends State<AddTaskScreen> {
                     MaterialStateProperty.all(Colors.lightBlueAccent),
               ),
               onPressed: () {},
-              child: const Text('Add Task '),
+              child: const Text('Add Task'),
 
             ),
           ],
